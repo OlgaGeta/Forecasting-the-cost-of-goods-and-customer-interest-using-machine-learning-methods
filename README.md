@@ -7,4 +7,4 @@
 
 ---
 Шаг 2. 
-Проставление маркеров скидок и выгрузка временного ряда с метками: https://colab.research.google.com/drive/1H_7836nou81eh1KpXq8EamQWF4cjgTCl?usp=sharing
+Проставление маркеров скидок и выгрузка временного ряда с метками: [https://colab.research.google.com/drive/1H_7836nou81eh1KpXq8EamQWF4cjgTCl?usp=sharing](https://colab.research.google.com/drive/1y-TAAByvpEcHf01H5NcTq3Z7XpNvsjKf?usp=sharing)
