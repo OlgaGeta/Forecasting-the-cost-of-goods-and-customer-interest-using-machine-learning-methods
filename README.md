@@ -1,9 +1,9 @@
 # Forecasting-the-cost-of-goods-and-customer-interest-using-machine-learning-methods
 
-Данные после кластеризации: https://drive.google.com/drive/folders/1vgyfSUSbRUgeNKt1TeTK6leRaA4vWz0n?usp=sharing
-Временной ряд по количеству продаж: 
-Временной ряд с учётом кластеризации: df_k0_ts.csv
-Временной ряд для предсказания стоимости:
+- Данные после кластеризации: https://drive.google.com/drive/folders/1vgyfSUSbRUgeNKt1TeTK6leRaA4vWz0n?usp=sharing
+- Временной ряд по количеству продаж: df_ts_labels_my.csv
+- Временной ряд с учётом кластеризации: df_k0_ts.csv
+- Временной ряд для предсказания стоимости:
 
 
 Исследование данных, конкатенация в файле concat.ipynb
